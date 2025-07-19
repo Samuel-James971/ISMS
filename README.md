@@ -2,6 +2,7 @@
 To view the document, click on the ISMS.docx file in the repository, then select ‘View raw’ to download or open it in your preferred application.
 
 📘 What is an ISMS and Why Is It Important?
+
 An Information Security Management System (ISMS) is a formalized system that helps organizations secure their information assets. It involves policies, procedures, roles, responsibilities, and controls that are designed to protect data from threats such as cyberattacks, data breaches, or accidental loss.
 
 💡 Why is an ISMS Important?
